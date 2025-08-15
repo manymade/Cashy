@@ -1,0 +1,17 @@
+- ⚒️ spawner money 
+ - money per minute -> money per second 
+ - variables
+ - displayed as
+
+- ⚒️ money time 
+ - 1 minute -> 5 seconds 
+ - file: Spawner/SpawnerHolo.sk
+
+- ⚒️ spawner deletion & withdraws
+ - file Spawner/SpawnerIteself.sk
+
+- ⭐ added profile 
+ - for stats
+ - most importantly for money - spawners need a way to transfer spawner money to a player 
+   profile
+- file Profile/Profile.sk & Money.sk
