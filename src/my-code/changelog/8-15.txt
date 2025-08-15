@@ -12,6 +12,5 @@
 
 - ⭐ added profile 
  - for stats
- - most importantly for money - spawners need a way to transfer spawner money to a player 
-   profile
-- file Profile/Profile.sk & Money.sk
+ - money - spawners need a way to transfer money to a player profile
+ - file Profile/Profile.sk & Money.sk
