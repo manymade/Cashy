@@ -1,0 +1,10 @@
+⚒️ spawner holo 
+ [8:38]
+ - block spawner check (fix the holo glitch - after spawner deletion)
+ - removed MPS from display
+ - file SpawnerHolo.sk
+
+⚒️ spawner 
+ [8:38]
+ - fixed break / left click message overlapping
+ - file SpawnerItself.sk
