@@ -1,16 +1,30 @@
-- ⚒️ spawner money 
+️️⚒️ shop
+ [14:35]
+ - GUI invisible head (fix: forgot player head code)
+
+⚒️ profile 
+ [19:58]
+ - profile spawners 
+ - functions: player_spawners(#player), player_spawners_amount(#player), and player_spawners_max(#player)
+ - file Profile.sk
+
+⚒️ spawner money 
+ [19:58]
  - money per minute -> money per second 
  - variables
  - displayed as
+ - file Money.sk
 
-- ⚒️ money time 
+ ⚒️ spawner holo 
+ [19:58]
  - 1 minute -> 5 seconds 
  - file: Spawner/SpawnerHolo.sk
 
-- ⚒️ spawner deletion & withdraws
+ ⚒️ spawner deletion & withdraws
  - file Spawner/SpawnerIteself.sk
 
-- ⭐ added profile 
+ ⚒️ added profile
+ [10:58]
  - for stats
  - money - spawners need a way to transfer money to a player profile
  - file Profile/Profile.sk & Money.sk
